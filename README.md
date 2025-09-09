@@ -1,2 +1,2 @@
-# ettika-qa-automation
-Manual &amp; Automation Testing portfolio for Ettika website
+# Playwright Automation
+Manual &amp; Automation Testing portfolio of different websites
