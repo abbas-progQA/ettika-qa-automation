@@ -1,2 +1,2 @@
 # Playwright Automation
-Manual &amp; Automation Testing portfolio of different websites
+ Automation Testing of different websites
